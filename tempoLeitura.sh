@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#"vou ter muito sucesso na programação!"
 echo "Digite o nome do arquivo (com extensão): "
 read arquivo
 tempoMedio=150 
