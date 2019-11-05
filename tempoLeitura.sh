@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Eu sou Tryber e...
 echo "Digite o nome do arquivo (com extensão): "
 read arquivo
 tempoMedio=150 
