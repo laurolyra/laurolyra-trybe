@@ -1,0 +1,8 @@
+State    Recv-Q    Send-Q        Local Address:Port         Peer Address:Port   
+LISTEN   0         128                 0.0.0.0:51413             0.0.0.0:*      
+LISTEN   0         10                  0.0.0.0:57621             0.0.0.0:*      
+LISTEN   0         128           127.0.0.53%lo:domain            0.0.0.0:*      
+LISTEN   0         5                 127.0.0.1:ipp               0.0.0.0:*      
+LISTEN   0         128                 0.0.0.0:41721             0.0.0.0:*      
+LISTEN   0         128                    [::]:51413                [::]:*      
+LISTEN   0         5                     [::1]:ipp                  [::]:*      

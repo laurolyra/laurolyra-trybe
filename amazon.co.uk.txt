@@ -1,0 +1,34 @@
+
+    Domain name:
+        amazon.co.uk
+
+    Data validation:
+        Nominet was able to match the registrant's name and address against a 3rd party data source on 10-Dec-2012
+
+    Registrar:
+        Amazon.com, Inc. t/a Amazon.com, Inc. [Tag = AMAZON-COM]
+        URL: http://www.amazon.com
+
+    Relevant dates:
+        Registered on: before Aug-1996
+        Expiry date:  05-Dec-2020
+        Last updated:  23-Oct-2013
+
+    Registration status:
+        Registered until expiry date.
+
+    Name servers:
+        ns1.p31.dynect.net
+        ns2.p31.dynect.net
+        ns3.p31.dynect.net
+        ns4.p31.dynect.net
+        pdns1.ultradns.net
+        pdns2.ultradns.net
+        pdns3.ultradns.org
+        pdns4.ultradns.org
+        pdns5.ultradns.info
+        pdns6.ultradns.co.uk      204.74.115.1  2610:00a1:1017:0000:0000:0000:0000:0001
+
+    WHOIS lookup made at 21:34:09 07-Nov-2019
+
+-- 

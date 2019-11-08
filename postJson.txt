@@ -1,0 +1,24 @@
+lauro@lauro-note:~/MeusProjetos$ curl -H "Content-Type: application/json"--request POST -d '{"escola":"Trybe"}' https://httpbin.org/anything | cat > postJson.txt
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0curl: (6) Could not resolve host: POST
+100   435  100   417  100    18    385     16  0:00:01  0:00:01 --:--:--   675
+{
+  "args": {}, 
+  "data": "{\"escola\":\"Trybe\"}", 
+  "files": {}, 
+  "form": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Content-Length": "18", 
+    "Content-Type": "application/json--request", 
+    "Host": "httpbin.org", 
+    "User-Agent": "curl/7.58.0"
+  }, 
+  "json": {
+    "escola": "Trybe"
+  }, 
+  "method": "POST", 
+  "origin": "177.74.232.139, 177.74.232.139", 
+  "url": "https://httpbin.org/anything"
+}

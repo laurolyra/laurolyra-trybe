@@ -1,0 +1,23 @@
+lauro@lauro-note:~/MeusProjetos$ curl -X PUT https://httpbin.org/anything?firstname=Lauro&lastname=Aguiar | cat > curlFirstLast.txt
+[1] 13557
+
+lauro@lauro-note:~/MeusProjetos$ curl -X PUT https://httpbin.org/anything?firstname=Lauro&lastname=Aguiar | cat > curlFirstLast.txt
+[1] 13557
+lauro@lauro-note:~/MeusProjetos$ {
+  "args": {
+    "firstname": "Lauro"
+  }, 
+  "data": "", 
+  "files": {}, 
+  "form": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Content-Length": "0", 
+    "Host": "httpbin.org", 
+    "User-Agent": "curl/7.58.0"
+  }, 
+  "json": null, 
+  "method": "PUT", 
+  "origin": "177.74.232.139, 177.74.232.139", 
+  "url": "https://httpbin.org/anything?firstname=Lauro"
+}

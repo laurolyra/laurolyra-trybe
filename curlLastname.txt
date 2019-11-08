@@ -1,0 +1,22 @@
+lauro@lauro-note:~/MeusProjetos$ curl -X POST https://httpbin.org/anything?lastname=Aguiar | cat > curlLastname.txt
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   365  100   365    0     0    385      0 --:--:-- --:--:-- --:--:--   384
+{
+  "args": {
+    "lastname": "Aguiar"
+  }, 
+  "data": "", 
+  "files": {}, 
+  "form": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Content-Length": "0", 
+    "Host": "httpbin.org", 
+    "User-Agent": "curl/7.58.0"
+  }, 
+  "json": null, 
+  "method": "POST", 
+  "origin": "177.74.232.139, 177.74.232.139", 
+  "url": "https://httpbin.org/anything?lastname=Aguiar"
+}

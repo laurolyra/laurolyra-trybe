@@ -1,0 +1,21 @@
+lauro@lauro-note:~/MeusProjetos$ curl -X GET https://httpbin.org/anything?firstname=Lauro | cat > curlFirstname.txt
+% Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100   336  100   336    0     0    370      0 --:--:-- --:--:-- --:--:--   370
+{
+  "args": {
+    "firstname": "Lauro"
+  }, 
+  "data": "", 
+  "files": {}, 
+  "form": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Host": "httpbin.org", 
+    "User-Agent": "curl/7.58.0"
+  }, 
+  "json": null, 
+  "method": "GET", 
+  "origin": "177.74.232.139, 177.74.232.139", 
+  "url": "https://httpbin.org/anything?firstname=Lauro"
+}
